@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>books1_cleaned.png</file>
+        <file>feedback1_cleaned.png</file>
+        <file>orders1_cleaned.png</file>
+        <file>users1_cleaned.png</file>
+    </qresource>
+</RCC>
